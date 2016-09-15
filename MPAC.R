@@ -18,3 +18,4 @@ validdata<-data[data$Var %in% c("A","B","C","D"),]
 
 #hello
 #how are you
+#hey there
